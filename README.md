@@ -1,4 +1,4 @@
 api-log-decorator
 =================
 
-python decorator for printing api log info.
+A simple python decorator for outputing api log info.
